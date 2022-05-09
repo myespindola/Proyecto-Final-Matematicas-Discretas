@@ -12,3 +12,5 @@ Se uso este conjunto de datos, ya que para cada delito tenemos su ubicación, la
 ayudar a la víctima.
 Con estos datos, podremos encontrar aquellos lugares con mayor concentraci´on de mujeres v´ıctimas de violencia de genero en la CDMX y estas zonas ser´an
 las mas apropiadas para ubicar estos centros.
+
+[[https://github.com/myespindola/Proyecto-Final-Matematicas-Discretas/blob/main/assets/Resultados.png|alt=octocat]]
