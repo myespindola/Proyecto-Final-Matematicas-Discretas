@@ -10,7 +10,7 @@ Para hacer esto posible, usaremos un conjunto de datos que contiene información
 Procuraduría General de Justicia (PGJ) de la Ciudad de México desde enero de 2019 hasta septiembre de 2019.
 Se uso este conjunto de datos, ya que para cada delito tenemos su ubicación, la fecha, y el sexo de la víctima, con lo cual, podemos obtener las ubicaciones de los delitos de genero, para los cuales un centros de atención a mujeres pueda
 ayudar a la víctima.
-Con estos datos, podremos encontrar aquellos lugares con mayor concentraci´on de mujeres v´ıctimas de violencia de genero en la CDMX y estas zonas ser´an
+Con estos datos, podremos encontrar aquellos lugares con mayor concentracion de mujeres víctimas de violencia de genero en la CDMX y estas zonas serán
 las mas apropiadas para ubicar estos centros.
 
 ![Image text](https://github.com/myespindola/Proyecto-Final-Matematicas-Discretas/blob/main/assets/Resultados.png)
